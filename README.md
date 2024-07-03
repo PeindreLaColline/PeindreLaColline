@@ -4,7 +4,7 @@
 #### chaewon KIM
 - Born and raised in Korea / lived in France   
 - Graduated from Pusan National University (Korea)   
-- Majored in **french language and litterature**   
+- Majored in **French Language and Literature**   
 - Double majored in **Computer Science Engineering**   
    
 #### Speak in
