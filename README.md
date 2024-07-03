@@ -2,8 +2,8 @@
 
 ### Who am I?
 - Born and raised in Korea / lived in France   
-- Graduated from Pusan National University(Korea)
-- Studied at INALCO(France) as an exchange student
+- Graduated from Pusan National University (South Korea)
+- Studied at INALCO (France) as an exchange student
 - Majored in **French Language and Literature**   
 - Double majored in **Computer Science Engineering**   
    
