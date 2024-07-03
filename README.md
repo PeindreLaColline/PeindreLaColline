@@ -10,7 +10,7 @@
 #### Speak in
 - Korean : native   
 - English : fluent (OPIc IH)
-- French : good enough (DELF B2)   
+- French : communicatable (DELF B2)   
  
 
 
