@@ -10,7 +10,7 @@
 ### Speak in
 > Korean : native   
 > English : fluent   
-> French : good enough   
+> French : good enough (DELF B2)   
 
 * * *
  # Computer
@@ -20,7 +20,7 @@
 ![Static Badge](https://img.shields.io/badge/C-badge?logo=C&logoColor=white&labelColor=A8B9CC&color=A8B9CC)
 
 ### Project
-> Large-scale Languagle Model specialized in Paten Field   
+> Large-scale Languagle Model specialized in Patent Field   
 
 ### Baekjoon
 [![Solved.ac
