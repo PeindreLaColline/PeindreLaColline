@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:c5c8fa,100:9095ee&text=Peindre%20La%20Colline&fontColor=4d518e)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPeindreLaColline&count_bg=%23A99EE5&title_bg=%23594386&icon=&icon_color=%23E7E7E7&title=Bienvenue&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # chaewon KIM
 > Born and raised in Korea   
