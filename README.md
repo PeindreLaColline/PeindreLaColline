@@ -1,7 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:c5c8fa,100:9095ee&text=Peindre%20La%20Colline&fontColor=4d518e&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:c5c8fa,100:9095ee&text=chaewon%20KIM&fontColor=4d518e&fontSize=50)
 
-# Personal Informaion 
-#### chaewon KIM
+#### who am I?
 - Born and raised in Korea / lived in France   
 - Graduated from Pusan National University (Korea)   
 - Majored in **French Language and Literature**   
@@ -11,11 +10,9 @@
 - Korean : native   
 - English : fluent (OPIc IH)
 - French : communicatable (DELF B2)   
- 
-
-
+ 　   
+　   
 ---
- # Computer
 #### Language
 ![Static Badge](https://img.shields.io/badge/C++-badge?logo=C%2B%2B&labelColor=00599C&color=00599C)
 ![Static Badge](https://img.shields.io/badge/C-badge?logo=C&logoColor=white&labelColor=A8B9CC&color=A8B9CC)
