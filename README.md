@@ -24,5 +24,4 @@
 1.  Large-scale Language Model specialized in Patent Field   
 2.  Auto-sanitizing machine for door handle due to COVID-19
 
-### Baekjoon [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bbubbune)](https://solved.ac/bbubbune)
+### Baekjoon [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bbubbune)](https://solved.ac/bbubbune)
