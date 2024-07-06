@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:c5c8fa,100:9095ee&text=chaewon%20KIM&fontColor=4d518e&fontSize=50)
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -36,7 +34,7 @@
     <script>
         // 마크다운 내용 (--- 기준으로 분리된 두 부분)
         var markdownContentLeft = `
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:c5c8fa,100:9095ee&text=chaewon%20KIM&fontColor=4d518e&fontSize=50)
 
 ### Who am I?
 - Born, raised and based in Korea / Lived in France   
