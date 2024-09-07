@@ -16,7 +16,7 @@
 ---
 ### Project
 1.  Large-scale Language Model specialized in Patent Field   
-2.  Auto-sanitizing machine for door handle due to COVID-19
+2.  Door handle automatic sanitizing machine (to prevent COVID-19)
 
 ### Tech
 ![Static Badge](https://img.shields.io/badge/C++-badge?logo=C%2B%2B&labelColor=00599C&color=00599C)
