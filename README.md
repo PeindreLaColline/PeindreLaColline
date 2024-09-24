@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:c5c8fa,100:9095ee&text=chaewon%20KIM&fontColor=4d518e&fontSize=50)
-
 ### Who am I?
 - Born and raised in Korea, Lived in France
 - Graduated from Pusan National University (South Korea)
