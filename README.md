@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:c5c8fa,100:9095ee&text=chaewon%20KIM&fontColor=4d518e&fontSize=50)
 
 ### Who am I?
-- Born, raised and based in Korea / Lived in France   
+- Born and raised in Korea, Lived in France
 - Graduated from Pusan National University (South Korea)
-- Studied at INALCO (France) as an exchange student
 - Majored in **French Language and Literature**   
 - Double majored in **Computer Science Engineering**   
    
