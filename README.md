@@ -12,7 +12,7 @@
 　   
 ---
 ### Project
-1.  Large-scale Language Model specialized in Patent Field   
+1.  Large-scale Language Model specialized in Patent Field and korean language
 2.  Door handle automatic sanitizing machine (to prevent COVID-19)
 
 ### Tech
