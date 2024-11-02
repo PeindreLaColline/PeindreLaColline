@@ -24,4 +24,3 @@
 
 
 ### Baekjoon [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bbubbune)](https://solved.ac/bbubbune)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
