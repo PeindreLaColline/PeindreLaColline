@@ -12,8 +12,9 @@
 　   
 ---
 ### Project
-1.  Large-scale Language Model specialized in Patent Field and korean language
-2.  Door handle automatic sanitizing machine (to prevent COVID-19)
+1.  Movie review and social networking platform (Backend)
+2.  Large-scale Language Model specialized in Patent Field and korean language
+3.  Door handle automatic sanitizing machine
 
 ### Tech
 ![Static Badge](https://img.shields.io/badge/C++-badge?logo=C%2B%2B&labelColor=00599C&color=00599C)
