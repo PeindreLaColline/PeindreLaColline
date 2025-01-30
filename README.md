@@ -2,7 +2,8 @@
 - Born and raised in Korea, Lived in France
 - Graduated from Pusan National University (South Korea)
 - Majored in **French Language and Literature**   
-- Double majored in **Computer Science Engineering**   
+- Double majored in **Computer Science Engineering**
+- LG Uplus URECA 1st - backend developer education   
    
 ### I speak
 - Korean : native   
@@ -16,12 +17,19 @@
 2.  Large-scale Language Model specialized in Patent Field and korean language
 3.  Door handle automatic sanitizing machine
 
+
+
+---
+### Certificate
+1. 정보처리기사 (2024)
+2. SQLd (2024)
+
+
+
+---
+
 ### Tech
-![Static Badge](https://img.shields.io/badge/C++-badge?logo=C%2B%2B&labelColor=00599C&color=00599C)
-![Static Badge](https://img.shields.io/badge/Java-badge?color=purple)
-![Static Badge](https://img.shields.io/badge/C-badge?logo=C&logoColor=white&labelColor=A8B9CC&color=A8B9CC)
-![Static Badge](https://img.shields.io/badge/Python-badge?logo=Python&logoColor=white&labelColor=3776AB&color=3776AB)
-![Static Badge](https://img.shields.io/badge/Spring-badge?style=flat&logo=Spring&logoColor=%236DB33F)
+<img width="365" alt="Capture d’écran 2025-01-30 à 22 59 15" src="https://github.com/user-attachments/assets/0657af56-62cc-4829-8cb3-87390789a7c5" />
 
 
 ### Baekjoon [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=bbubbune)](https://solved.ac/bbubbune)
