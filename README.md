@@ -7,7 +7,7 @@
    
 ### I speak
 - Korean : native   
-- English : fluent (OPIc IH)
+- English : fluent (OPIc IH, TOEIC 955)
 - French : intermediate (DELF B2)    
  　   
 　   
